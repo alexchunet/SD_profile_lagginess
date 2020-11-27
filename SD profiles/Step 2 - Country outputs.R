@@ -1,3 +1,5 @@
+#author: Alex Chunet
+
 library(tidyverse)
 library(data.table)
 library(ggplot2)
