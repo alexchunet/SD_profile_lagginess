@@ -1,6 +1,6 @@
 ---
 title: "Lagginess Index"
-author: "Evelyn Sanchez"
+author: "Evelyn Sanchez" (reviewed by Alex Chunet)
 date: "2/27/2020"
 output:
   html_document: default
