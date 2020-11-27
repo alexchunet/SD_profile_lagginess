@@ -1,6 +1,6 @@
 ---
 title: "Accessibility"
-author: "Evelyn Sanchez"
+author: "Evelyn Sanchez" (reviewed by Alex Chunet)
 date: "2/25/2020"
 output: html_document
 ---
