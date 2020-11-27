@@ -1,3 +1,5 @@
+#author: Alex Chunet
+
 library(WDI)
 library(plyr)
 library(dplyr)
